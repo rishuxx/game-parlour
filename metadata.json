@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Parlour Management System v11.1",
+  "description": "DBMS Project: A comprehensive full-stack app for gaming parlours featuring MySQL normalized tables, Joins, Views, Stored Procedures, and Triggers with a Node.js/React stack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
